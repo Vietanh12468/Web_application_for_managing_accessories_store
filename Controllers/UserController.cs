@@ -21,6 +21,7 @@ namespace Web_application_for_managing_accessories_store.Controllers
             }
 
             return View(users);
+            //return View();
         }
     }
 }
